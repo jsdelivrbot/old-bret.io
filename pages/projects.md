@@ -58,7 +58,7 @@ This is a list of personal projects from the past few years.  I am still putting
 * A small bundle that resizes the section names in LaTeX documents so that they are easier and faster to identify.
 
 <figure>
-<a href='https://cdn.rawgit.com/bcomnes/LaTeX-Font-Settings.tmbundle/master/screenshot.png'><img src="https://cdn.rawgit.com/bcomnes/LaTeX-Font-Settings.tmbundle/master/screenshot.png" width="258" height="320" alt="Screenshot of Bundlel"></a>
+<a href='https://cdn.rawgit.com/bcomnes/LaTeX-Font-Settings.tmbundle/master/screenshot.png'><img src="https://cdn.jsdelivr.net/gh/bcomnes/LaTeX-Font-Settings.tmbundle/screenshot.png" width="258" height="320" alt="Screenshot of Bundlel"></a>
 </figure>
 
 ## [Resume](/media/Bret_Comnes_CV.pdf)
